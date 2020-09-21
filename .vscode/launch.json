@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroserviceEurekaApplication<Microservice-Eureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.gabriel.core.MicroserviceEurekaApplication",
+            "projectName": "Microservice-Eureka",
+            "args": ""
+        }
+    ]
+}
